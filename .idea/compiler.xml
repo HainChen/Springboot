@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springboot001pre" />
         <module name="springboot002first" />
+        <module name="springboot03environment" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springboot001pre" target="1.8" />
       <module name="springboot002first" target="1.8" />
+      <module name="springboot03environment" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
