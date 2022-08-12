@@ -7,7 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springboot001pre" />
+        <module name="springboot07container" />
+        <module name="springboot08commandlinerunner" />
         <module name="springboot002first" />
+        <module name="springboot10servlet" />
+        <module name="springboot06jsp" />
+        <module name="springboot09interceptor" />
+        <module name="springboot04multi-environment" />
+        <module name="springboot05custom-yml" />
         <module name="springboot03environment" />
       </profile>
     </annotationProcessing>
@@ -15,6 +22,13 @@
       <module name="springboot001pre" target="1.8" />
       <module name="springboot002first" target="1.8" />
       <module name="springboot03environment" target="1.8" />
+      <module name="springboot04multi-environment" target="1.8" />
+      <module name="springboot05custom-yml" target="1.8" />
+      <module name="springboot06jsp" target="1.8" />
+      <module name="springboot07container" target="1.8" />
+      <module name="springboot08commandlinerunner" target="1.8" />
+      <module name="springboot09interceptor" target="1.8" />
+      <module name="springboot10servlet" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

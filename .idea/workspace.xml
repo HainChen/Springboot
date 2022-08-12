@@ -5,12 +5,70 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d2c8600-c328-49c7-b09c-cccf44a78ecd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/springboot002first/src/main/java/com/chen/controller/HelloSpringboot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/springboot002first/src/main/java/com/chen/vo/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/springboot002first/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/demo/springboot002first/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/springboot002first/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/springboot002first/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/springboot002first/src/main/java/com/chen/Springboot002firstApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/springboot002first/src/main/java/com/chen/Springboot002firstApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/springboot002first/src/test/java/com/chen/Springboot002firstApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/springboot002first/src/test/java/com/chen/Springboot002firstApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot03environment/src/main/java/com/chen/MyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot03environment/src/main/java/com/chen/controller/BootController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot03environment/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot04multi-environment/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot04multi-environment/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot04multi-environment/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot04multi-environment/src/main/java/com/chen/Springboot04multiEnvironmentApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot04multi-environment/src/main/java/com/chen/controller/BootController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot04multi-environment/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot04multi-environment/src/main/resources/application-online.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot04multi-environment/src/main/resources/application-test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot04multi-environment/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot04multi-environment/src/test/java/com/chen/Springboot04multiEnvironmentApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot05custom-yml/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot05custom-yml/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot05custom-yml/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot05custom-yml/src/main/java/com/chen/Springboot05customYmlApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot05custom-yml/src/main/java/com/chen/controller/BootController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot05custom-yml/src/main/java/com/chen/vo/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot05custom-yml/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot05custom-yml/src/test/java/com/chen/Springboot05customYmlApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot06jsp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot06jsp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot06jsp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot06jsp/src/main/java/com/chen/Springboot06jspApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot06jsp/src/main/java/com/chen/controller/JspController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot06jsp/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot06jsp/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot06jsp/src/test/java/com/chen/Springboot06jspApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot07container/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot07container/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot07container/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot07container/src/main/java/com/chen/Springboot07containerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot07container/src/main/java/com/chen/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot07container/src/main/java/com/chen/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot07container/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot07container/src/test/java/com/chen/Mytest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot07container/src/test/java/com/chen/Springboot07containerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot08commandlinerunner/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot08commandlinerunner/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot08commandlinerunner/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot08commandlinerunner/src/main/java/com/chen/Springboot08commandlinerunnerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot08commandlinerunner/src/main/java/com/chen/servie/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot08commandlinerunner/src/main/java/com/chen/servie/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot08commandlinerunner/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot08commandlinerunner/src/test/java/com/chen/Springboot08commandlinerunnerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot09interceptor/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot09interceptor/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot09interceptor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot09interceptor/src/main/java/com/chen/Springboot09interceptorApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot09interceptor/src/main/java/com/chen/config/MyAppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot09interceptor/src/main/java/com/chen/controller/BootController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot09interceptor/src/main/java/com/chen/web/LoginInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot09interceptor/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot09interceptor/src/test/java/com/chen/Springboot09interceptorApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot10servlet/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot10servlet/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot10servlet/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot10servlet/src/main/java/com/chen/Springboot10servletApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot10servlet/src/main/java/com/chen/config/WebApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot10servlet/src/main/java/com/chen/web/MyServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot10servlet/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot10servlet/src/test/java/com/chen/Springboot10servletApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot03environment/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot03environment/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +82,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
+        <option value="Jsp File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,11 +108,14 @@
     </option>
   </component>
   <component name="ProjectId" id="2DBp3Pb2DXW02ex9h6Efaz7R3Xr" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -61,15 +124,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot06jsp/src/main/webapp" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.14124292" />
-    <property name="settings.editor.selected.configurable" value="advanced.settings" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="JUnit.Springboot002firstApplicationTests.contextLoads">
-    <configuration name="Mytest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot001pre" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.chen.servie.impl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Springboot10servletApplication">
+    <configuration name="Mytest.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot07container" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.chen.*" />
@@ -78,14 +154,14 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.chen" />
       <option name="MAIN_CLASS_NAME" value="com.chen.Mytest" />
-      <option name="METHOD_NAME" value="test02" />
+      <option name="METHOD_NAME" value="contextLoads" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mytest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot001pre" />
+    <configuration name="Mytest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot07container" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.chen.*" />
@@ -94,39 +170,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.chen" />
       <option name="MAIN_CLASS_NAME" value="com.chen.Mytest" />
-      <option name="METHOD_NAME" value="test03" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Mytest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot001pre" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.chen" />
-      <option name="MAIN_CLASS_NAME" value="com.chen.Mytest" />
-      <option name="METHOD_NAME" value="test04" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Mytest.test05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot001pre" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.chen" />
-      <option name="MAIN_CLASS_NAME" value="com.chen.Mytest" />
-      <option name="METHOD_NAME" value="test05" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -148,6 +192,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Springboot07containerApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot07container" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chen" />
+      <option name="MAIN_CLASS_NAME" value="com.chen.Springboot07containerApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot03environment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chen.MyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Springboot002firstApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot002first" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.chen.Springboot002firstApplication" />
@@ -162,13 +235,62 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Springboot04multiEnvironmentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot04multi-environment" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chen.Springboot04multiEnvironmentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot05customYmlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot05custom-yml" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chen.Springboot05customYmlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot06jspApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot06jsp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chen.Springboot06jspApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot07containerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot07container" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chen.Springboot07containerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot08commandlinerunnerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot08commandlinerunner" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chen.Springboot08commandlinerunnerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot09interceptorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot09interceptor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chen.Springboot09interceptorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot10servletApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot10servlet" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chen.Springboot10servletApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Mytest.test" />
+        <item itemvalue="JUnit.Mytest.contextLoads" />
+        <item itemvalue="JUnit.Springboot07containerApplicationTests.contextLoads" />
+        <item itemvalue="Spring Boot.MyApplication" />
         <item itemvalue="JUnit.Springboot002firstApplicationTests.contextLoads" />
-        <item itemvalue="JUnit.Mytest.test05" />
-        <item itemvalue="JUnit.Mytest.test04" />
-        <item itemvalue="JUnit.Mytest.test03" />
-        <item itemvalue="JUnit.Mytest.test02" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +306,10 @@
       <option name="presentableId" value="Default" />
       <updated>1660182134653</updated>
       <workItem from="1660182135874" duration="4660000" />
-      <workItem from="1660186851280" duration="2919000" />
+      <workItem from="1660186851280" duration="3579000" />
+      <workItem from="1660218560684" duration="304000" />
+      <workItem from="1660219416908" duration="5168000" />
+      <workItem from="1660267488067" duration="5353000" />
     </task>
     <servers />
   </component>
@@ -201,5 +326,9 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

@@ -5,6 +5,13 @@
       <module fileurl="file://$PROJECT_DIR$/springboot001pre/springboot001pre.iml" filepath="$PROJECT_DIR$/springboot001pre/springboot001pre.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/springboot002first/springboot002first.iml" filepath="$PROJECT_DIR$/demo/springboot002first/springboot002first.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot03environment/springboot03environment.iml" filepath="$PROJECT_DIR$/springboot03environment/springboot03environment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot04multi-environment/springboot04multi-environment.iml" filepath="$PROJECT_DIR$/springboot04multi-environment/springboot04multi-environment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot05custom-yml/springboot05custom-yml.iml" filepath="$PROJECT_DIR$/springboot05custom-yml/springboot05custom-yml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot06jsp/springboot06jsp.iml" filepath="$PROJECT_DIR$/springboot06jsp/springboot06jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot07container/springboot07container.iml" filepath="$PROJECT_DIR$/springboot07container/springboot07container.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot08commandlinerunner/springboot08commandlinerunner.iml" filepath="$PROJECT_DIR$/springboot08commandlinerunner/springboot08commandlinerunner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot09interceptor/springboot09interceptor.iml" filepath="$PROJECT_DIR$/springboot09interceptor/springboot09interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot10servlet/springboot10servlet.iml" filepath="$PROJECT_DIR$/springboot10servlet/springboot10servlet.iml" />
     </modules>
   </component>
 </project>
